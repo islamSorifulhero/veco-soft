@@ -1,5 +1,6 @@
+import React from 'react';
 import { Package, Truck, MapPin, CheckCircle2 } from "lucide-react";
-import { STAGES } from "../mockData";
+import { STAGES } from "/mockData";
 
 const stageIcons = {
   processing: Package,

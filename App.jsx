@@ -1,8 +1,9 @@
+import React from 'react';
 import { useState, useMemo } from "react";
 import { mockOrders } from "./mockData";
-import OrderTrackingScreen from "./components/OrderTrackingScreen";
-import LoadingState from "./components/LoadingState";
-import ErrorState from "./components/ErrorState";
+import OrderTrackingScreen from "./OrderTrackingScreen";
+import LoadingState from "./LoadingState";
+import ErrorState from "./ErrorState";
 
 const scenarioLabels = {
   normal: "On track",

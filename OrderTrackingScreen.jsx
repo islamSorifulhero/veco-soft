@@ -1,3 +1,4 @@
+import React from 'react';
 import { Truck, Clock } from "lucide-react";
 import DeliveryTimeline from "./DeliveryTimeline";
 import StatusBanner from "./StatusBanner";

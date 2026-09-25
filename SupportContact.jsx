@@ -1,3 +1,4 @@
+import React from 'react';
 import { Phone, Mail, MessageCircle, ChevronRight, AlertOctagon } from "lucide-react";
 
 export default function SupportContact({ order, showReportIssue, onReportIssue }) {

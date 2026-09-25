@@ -1,3 +1,4 @@
+import React from 'react';
 import { Package } from "lucide-react";
 
 export default function OrderSummary({ order }) {
