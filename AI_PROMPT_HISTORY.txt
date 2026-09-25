@@ -1,0 +1,5 @@
+Prompt 1: 
+I am working on a Frontend Developer Assessment. Please read the requirements from the attached screenshot.   I need to build a mobile Order Tracking screen for an e-commerce application using React and Tailwind CSS.   Key Requirements:Clear visual delivery progress/timeline (Processing, Shipped, Out for Delivery, Delivered).   Show 3 edge cases: Delayed Order, Delivered but Not Received, and Tracking Not Available Yet.   Responsive UI for 360-430px mobile width.   Order summary, support contact, and meaningful interaction UI.   Please give me a clean, component-based React solution using Tailwind CSS. First, provide the mock data structure and state management approach to handle the 3 edge case scenarios easily.
+
+Prompt 2:
+Great. Now write the complete React component (in a single file or modular components) using Tailwind CSS and Lucide React icons. Make sure the mobile UI looks modern, clean, and handles all 3 edge cases via a toggle or state selector for testing.
