@@ -1,5 +1,19 @@
-Prompt 1: 
+Prompt (Task 1):
+Prompt 1:
 I am working on a Frontend Developer Assessment. Please read the requirements from the attached screenshot.   I need to build a mobile Order Tracking screen for an e-commerce application using React and Tailwind CSS.   Key Requirements:Clear visual delivery progress/timeline (Processing, Shipped, Out for Delivery, Delivered).   Show 3 edge cases: Delayed Order, Delivered but Not Received, and Tracking Not Available Yet.   Responsive UI for 360-430px mobile width.   Order summary, support contact, and meaningful interaction UI.   Please give me a clean, component-based React solution using Tailwind CSS. First, provide the mock data structure and state management approach to handle the 3 edge case scenarios easily.
 
 Prompt 2:
 Great. Now write the complete React component (in a single file or modular components) using Tailwind CSS and Lucide React icons. Make sure the mobile UI looks modern, clean, and handles all 3 edge cases via a toggle or state selector for testing.
+
+
+
+Prompt (Task 2):
+I need to implement an LRU Cache in JavaScript for Task 2.
+Requirements:
+1. LRU Cache supporting Cache(capacity), get(key), and put(key, value).
+2. get(key) returns value or -1 if not found.
+3. get and put should update key as most recently used.
+4. Evict least recently used entry when capacity is exceeded.
+5. Time complexity: O(1) average time for get and put.
+6. Include example usage matching the prompt's example.
+Please provide a clean JavaScript implementation (lruCache.js) using JavaScript Map.
